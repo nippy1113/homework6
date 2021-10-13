@@ -1,5 +1,0 @@
-Product list: 
-name: Беспроводные наушники XIAOMI Mi True Wireless Earphones 2 Basic, белый price: 1979
-name: Наушники Беспроводные Xiaomi Redmi Airdots 2 ( c Шумоподавлением 2021 ) price: 745
-name: Наушники беспроводные Xiaomi Mi Redmi Airdots 2 price: 699
-The max price product is Беспроводные наушники XIAOMI Mi True Wireless Earphones 2 Basic, белый and its price is: 1979
