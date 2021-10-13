@@ -1,0 +1,21 @@
+Product list: 
+name: Беспроводные наушники TWS Bluetooth 5.0 с микрофоном,microSD, micro USB, AUX 3.5mm stereo price: 1000
+name: Беспроводные сенсорные наушники TWS i12 price: 399
+name: Беспроводные наушники TWS i12 белые price: 447
+name: Inpods 12 TWS Беспроводные наушники Bluetooth price: 361
+name: Беспроводные наушники TWS i13 price: 485
+name: Беспроводные наушники i12 TWS price: 456
+name: Беспроводные наушники TWS i12 price: 369
+name: Беспроводные наушники i15 Pods TWS price: 380
+name: Беспроводные наушники TWS i9 price: 456
+name: Беспроводные наушники i9S-TWS price: 456
+name: Беспроводные наушники TWS i12 price: 439
+name: Беспроводные наушники TWS i18 Nova price: 499
+name: Наушники беспроводные i9S 5.0 TWS price: 489
+name: Беспроводные наушники TWS i9s, белый price: 456
+name: Беспроводные наушники TWS i12/Наушники Беспроводные/airpods2/airpods price: 384
+name: Наушники беспроводные i11-TWS 5.0, белый price: 421
+name: Беспроводные наушники i15 Pods TWS, желтый price: 385
+name: Наушники беспроводные i9S 5.0 белый TWS price: 489
+name: Беспроводные наушники TWS i12 price: 439
+The max price product is Беспроводные наушники TWS Bluetooth 5.0 с микрофоном,microSD, micro USB, AUX 3.5mm stereo and its price is: 1000

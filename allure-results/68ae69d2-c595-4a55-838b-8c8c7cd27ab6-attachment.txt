@@ -1,0 +1,10 @@
+Product list: 
+name: Смартфон Apple iPhone 11 128GB, черный price: 53980
+name: Смартфон Apple iPhone 11 128GB, фиолетовый price: 53980
+name: Смартфон Apple iPhone 11 64GB, зеленый price: 48480
+name: Смартфон Apple iPhone 11 64GB, фиолетовый price: 48480
+name: Смартфон Apple iPhone 11 64GB, белый price: 48480
+name: Смартфон Apple iPhone XR 128GB, черный price: 52980
+name: Смартфон Apple iPhone 11 64GB, (PRODUCT)RED price: 48480
+name: Смартфон Apple iPhone 12 128GB, фиолетовый price: 69890
+The max price product is Смартфон Apple iPhone 12 128GB, фиолетовый and its price is: 69890
