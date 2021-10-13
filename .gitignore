@@ -2,6 +2,7 @@
 .allure
 .idea
 target
+allure-results
 
 # files
 *.iml
